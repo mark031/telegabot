@@ -1,0 +1,1 @@
+web: python telegram_school_bot.py
